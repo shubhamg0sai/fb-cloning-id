@@ -2,6 +2,8 @@
 
 ### screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/fb-cloning-id/main/.github/Screenshot_20201003_071728.jpg)
+# Note
+Find me....for usser name and password
 
 ### FIND...ME.
 
@@ -49,3 +51,4 @@ pip2 install requests
 pip2 install mechanize
 
 python2 Shubham.py
+

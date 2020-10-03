@@ -40,7 +40,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/Tech-abm/fb-cloning-id
+git clone https://github.com/ShuBhamg0sain/fb-cloning-id
 
 cd fb-cloning-id
 

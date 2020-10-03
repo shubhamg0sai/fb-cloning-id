@@ -3,7 +3,7 @@
 ### screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/fb-cloning-id/main/.github/Screenshot_20201003_071728.jpg)
 # Note
-Find me....for usser name and password
+Find me....for username and password
 
 ### FIND...ME.
 

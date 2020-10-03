@@ -1,8 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
-#TECH ABM THE OFFICAL ROGRAMMER 
-#FBCLONING COMMMAD MAKER 
-#YOUTUBE TECH ABM
+#FBCLONING COMMMAD 
+#by ShuBhamg0sain
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -55,7 +54,7 @@ S='\033[1;96m'
 P='\033[1;95m'
 Y='\033[1;93m'
 
-#Dev:TECH ABM
+#Dev: fb-cloning-id SG
 logo = """
 \033[1;93m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 \033[1;93m$$$$$$$$$$$$$$$$Y/'$$$$P'a$$$$$$$$$$$$$$$$
@@ -74,11 +73,11 @@ logo = """
 \033[1;93m$$$$$$$$,$$$$$$$L44., . .     ,,;d$$$$$$$$
 \033[1;93m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 \033[1;93m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-\033[0;95m╭════════════════════════════════════════════╮
-\033[0;91m║\033[0;91mAUTHOR : \033[0;92mTECH ABM                     \033[0;91m      ║
-\033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/Tech-abm   \033[0;91m     ║
-\033[0;91m║\033[0;91mFB PAGE :\033[0;92m https://m.facebook.com/Techabm \033[0;91m   ║
-\033[0;95m╰════════════════════════════════════════════╯
+\033[0;95m╭═══════════════════════════════════════════════════════════════════════╮
+\033[0;91m║\033[0;91mAUTHOR : \033[0;92mShuBhamg0sain                     \033[0;91m           ║
+\033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/ShuBhamg0sain   \033[0;91m          ║
+\033[0;91m║\033[0;91mFB PAGE :\033[0;92m https://m.facebook.com/shubham.gosain.980\033[0;91m   ║
+\033[0;95m╰═══════════════════════════════════════════════════════════════════════╯
 \033[1;94m⊱══════════════════⊱═⊰DISCLAIMER⊱═⊰══════════════════⊰
 \033[1;91mWARNING :\033[1;93mUSE A FRESH ACCOUNT TO LOGIN, DO NOT USE OLD ACCOUNT LOGIN OTHERWISE YOUR ACCOUNT WILL BE BLOCK
 \033[1;91mWIFI OR MOBILE DATA :\033[1;93mDO NOT USE WIFI, ONLY MOBILE DATA USE FOR CLONING 
@@ -122,13 +121,13 @@ jalan('\033[1;97m.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `')
 jalan('\033[1;97mWi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!') 
 jalan('\033[1;97m$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``     ') 
 jalan('\033[1;97m?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   ') 
-jalan('\033[1;47m                  \033[1;31mTECH-ABM                \033[1;0m     ') 
+jalan('\033[1;47m                  \033[1;31mShuBhamg0sain                \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 jalan('\033[1;91m      \033[1;91m ENTER TOOL USERNAME AND PASSWORD \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 
-CorrectUsername = "abm"
-CorrectPassword = "abm"
+CorrectUsername = "g0sain"
+CorrectPassword = "ShuBham"
 
 loop = 'true'
 while (loop == 'true'):

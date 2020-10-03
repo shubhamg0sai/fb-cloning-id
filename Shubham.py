@@ -135,7 +135,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[#] \x1b[0;36m Enter Password\x1b[1;92m➤ ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username + os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO') #fb-cloning-id SG
+            print "Logged in successfully as " + username #fb-cloning-id SG
             loop = 'false'
         else:
             print "Wrong password!"
@@ -143,6 +143,9 @@ while (loop == 'true'):
     else:
         print "Wrong username!"
         os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
+     else:
+         print "Worng password!"
+         os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO')
 
 ##### LICENSE #####
 #=================#

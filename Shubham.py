@@ -162,10 +162,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Serious Please"
-            os.system('xdg-open ')
+            os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en ')
     else:
         print "Wrong Dear!"
-        os.system('xdg-open ')
+        os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en ')
 
 ####login#########
 def login():

@@ -1,10 +1,4 @@
-import marshal, base64
-exec(base64.b64decode("
-
-
-
-
-#!/usr/bin/python2
+#!/use/bin/python2
 #coding=utf-8
 
 

